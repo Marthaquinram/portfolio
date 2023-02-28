@@ -9,7 +9,7 @@ const Footer = () => {
       <a href="#" className="footer__logo">
         Martha
       </a>
-      <ul className="premalinks">
+      <ul className="permalinks">
         <li>
           <a href="#">Home</a>
         </li>
@@ -42,6 +42,9 @@ const Footer = () => {
         >
           <BsLinkedin />
         </a>
+      </div>
+      <div className="footer__copyright">
+        <small>&copy; Martha Quintanilla-Ramirez All rights reserved</small>
       </div>
     </footer>
   );
