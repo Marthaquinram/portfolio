@@ -15,9 +15,9 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <FiCheck className="service__list-icon" />
-              <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Coming Soon</p>
             </li>
-            <li>
+            {/* <li>
               <FiCheck className="service__list-icon" />
               <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
@@ -32,7 +32,7 @@ const Services = () => {
             <li>
               <FiCheck className="service__list-icon" />
               <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+            </li> */}
           </ul>
         </article>
         {/* END OF UI/UX */}
@@ -43,9 +43,9 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <FiCheck className="service__list-icon" />
-              <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Coming Soon</p>
             </li>
-            <li>
+            {/* <li>
               <FiCheck className="service__list-icon" />
               <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
@@ -64,7 +64,7 @@ const Services = () => {
             <li>
               <FiCheck className="service__list-icon" />
               <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+            </li> */}
           </ul>
         </article>
         {/* END OF WEB DEVELOPMENT */}
@@ -75,7 +75,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <FiCheck className="service__list-icon" />
-              <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Coming Soon</p>
+            </li>
+            {/* <li>
+              <FiCheck className="service__list-icon" />
+              <p> Coming Soon.</p>
+            </li>
+            <li>
+              <FiCheck className="service__list-icon" />
+              <p> Coming Soon</p>
             </li>
             <li>
               <FiCheck className="service__list-icon" />
@@ -84,15 +92,7 @@ const Services = () => {
             <li>
               <FiCheck className="service__list-icon" />
               <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <FiCheck className="service__list-icon" />
-              <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <FiCheck className="service__list-icon" />
-              <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+            </li> */}
           </ul>
         </article>
         {/* END OF CONTENT CREATION  */}

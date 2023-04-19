@@ -25,13 +25,6 @@ const data = [
     demo: "https://mentor-connect.netlify.app/",
   },
   {
-    id: 3,
-    image: IMG3,
-    title: "ToDo App",
-    github: "https://github.com/stillSwinging",
-    demo: "https://mentor-connect.netlify.app/",
-  },
-  {
     id: 4,
     image: IMG4,
     title: "Running Shoe Guide",
@@ -39,18 +32,28 @@ const data = [
     demo: "https://derekjdoug.github.io/running-shoe-guide/",
   },
   {
+    id: 3,
+    image: IMG3,
+    title: "Coming Soon",
+    github: "",
+    demo: "",
+  },
+
+  {
     id: 5,
     image: IMG5,
     title: "Coming Soon",
-    github: "http://github.com//BraveSquad",
-    demo: "https://happytails-ten.vercel.app/",
+
+    github: "",
+    demo: "",
   },
   {
     id: 6,
     image: IMG6,
     title: "Coming Soon",
-    github: "http://github.com//BraveSquad",
-    demo: "https://happytails-ten.vercel.app/",
+
+    github: "",
+    demo: "",
   },
 ];
 
