@@ -17,13 +17,13 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "Hector Bellerin",
+    name: "Angela Fackler",
     review:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur fugit debitis dolor obcaecati repellat aspernatur quas soluta? Voluptatum, tempore facilis.",
   },
   {
     avatar: AVTR2,
-    name: "Martin Odegaard",
+    name: "Jordan Estaban",
     review:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur fugit debitis dolor obcaecati repellat aspernatur quas soluta? Voluptatum, tempore facilis.",
   },
