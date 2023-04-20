@@ -42,8 +42,8 @@ font-family: 'Poppins', sans-serif;
 background: var(--color-bg);
 color: var(--color-white);
 line-height: 1.7;
-background-image: url(./assets/lavender.jpeg);
-/* background-image: url(./assets/bg-texture.png); */
+/* background-image: url(./assets/lavender.jpeg); */
+background-image: url(./assets/bg-texture.png);
 }
 
 /*---------------------GENERAL STYLES------------------------*/
