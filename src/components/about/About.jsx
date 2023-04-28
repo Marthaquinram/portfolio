@@ -23,19 +23,18 @@ const About = () => {
               <h5>Experience</h5>
               <small>Just getting started</small>
             </article>
-
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
               <small>0 Clients</small>
             </article>
-
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
               <small>3 Completed Projects more to come!</small>
             </article>
           </div>
+
           <p>
             As a highly skilled software developer with expertise in JavaScript
             and a background in finance and customer service, I bring a unique
@@ -49,6 +48,7 @@ const About = () => {
             technology constantly evolving, I am excited to be a part of the
             growth and to make a meaningful contribution to the field.
           </p>
+
           <a href="#contact" className="btn btn-primary">
             Lets Connect!
           </a>
