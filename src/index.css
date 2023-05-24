@@ -15,7 +15,7 @@
 :root {
 --color-bg: #1a1a2b;
 --color-bg-variant: #2c2c6c;
---color-primary:#c494f5 ;
+--color-primary:#7DF9FF;
 /* --color-primary:#4db5ff ; */
 --color-primary-variant: rgba(0, 78, 134, 0.4);
 --color-white: white;
@@ -43,7 +43,11 @@ background: var(--color-bg);
 color: var(--color-white);
 line-height: 1.7;
 /* background-image: url(./assets/lavender.jpeg); */
-background-image: url(./assets/bg-texture.png);
+background-image: url(./assets/neon.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%;
+
 }
 
 /*---------------------GENERAL STYLES------------------------*/
@@ -118,6 +122,7 @@ img{
   display: block;
   width: 100%;
   object-fit: cover;
+  
 }
 
 /*---------------------MEDIA QUERUES (MEDIUM DEVICES)----------------------------------- */
