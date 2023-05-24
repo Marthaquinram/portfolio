@@ -43,7 +43,6 @@ const data = [
     id: 5,
     image: IMG5,
     title: "Coming Soon",
-
     github: "",
     demo: "",
   },
@@ -51,7 +50,6 @@ const data = [
     id: 6,
     image: IMG6,
     title: "Coming Soon",
-
     github: "",
     demo: "",
   },
