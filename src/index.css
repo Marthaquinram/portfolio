@@ -15,6 +15,7 @@
 :root {
 --color-bg: #1a1a2b;
 --color-bg-variant: #2c2c6c;
+
 --color-primary:#7DF9FF;
 /* --color-primary:#4db5ff ; */
 --color-primary-variant: rgba(0, 78, 134, 0.4);
@@ -48,7 +49,6 @@ background-repeat: no-repeat;
 background-size: cover;
 height: 100%;
 
-}
 
 /*---------------------GENERAL STYLES------------------------*/
 
