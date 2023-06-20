@@ -15,7 +15,6 @@
 :root {
 --color-bg: #1a1a2b;
 --color-bg-variant: #2c2c6c;
-
 --color-primary:#7DF9FF;
 /* --color-primary:#4db5ff ; */
 --color-primary-variant: rgba(0, 78, 134, 0.4);
@@ -44,10 +43,12 @@ background: var(--color-bg);
 color: var(--color-white);
 line-height: 1.7;
 /* background-image: url(./assets/lavender.jpeg); */
-background-image: url(./assets/neon.jpeg);
+background-image: url(./assets/purpleneon.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 height: 100%;
+
+}
 
 
 /*---------------------GENERAL STYLES------------------------*/
@@ -81,8 +82,18 @@ section > h5{
 }
 
 section > h2{
-  color: var(--color-primary);
   margin-bottom: 3rem;
+      color: #4dd0bc;
+      text-shadow:
+        0 0 7px #441a1a,
+        0 0 10px #5e070d,
+        0 0 21px #e29595,
+        0 0 42px rgb(246, 255, 0),
+        0 0 82px rgb(246, 255, 0),
+        0 0 92px rgb(246, 255, 0),
+        0 0 102px rgb(246, 255, 0),
+        0 0 151px rgb(246, 255, 0);
+    
 }
 
 .text-light{
