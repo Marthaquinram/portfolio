@@ -11,7 +11,6 @@ I hope you enjoy exploring my portfolio and learning more about me as a develope
 
 ## Live Site
 
-[marthainnovates.com](marthainnovates.com)
-
+[marthainnovates.com](http://marthainnovates.com)
 
 💃🏻⚽💃🏻⚽💃🏻⚽💃🏻⚽💃🏻⚽💃🏻⚽
